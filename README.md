@@ -163,7 +163,7 @@ sudo ./diskusage /root
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License 3.0 - see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for details.
 
 ## Author
 
