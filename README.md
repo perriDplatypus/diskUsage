@@ -23,7 +23,7 @@ A command-line tool written in C for analyzing disk space usage. Quickly identif
 
 ```bash
 # Clone the repository
-git clone https://github.com/perriDplatypus/disk-usage-analyzer.git
+git clone https://github.com/perriDplatypus/diskUsage.git
 cd disk-usage-analyzer
 
 # Compile the program
@@ -130,7 +130,7 @@ Contributions are welcome! Here are some ways you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/perriDplatypus/disk-usage-analyzer.git
+git clone https://github.com/perriDplatypus/diskUsage.git
 cd disk-usage-analyzer
 
 # Compile with debug symbols
