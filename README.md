@@ -169,4 +169,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Abhay - [@perriDplatypus](https://github.com/perriDplatypus)
 
-Project Link: [https://github.com/perriDplatypus/disk-usage-analyzer](https://github.com/perriDplatypus/disk-usage-analyzer)
+Project Link: [https://github.com/perriDplatypus/diskUsage](https://github.com/perriDplatypus/diskUsage)
