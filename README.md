@@ -144,7 +144,7 @@ valgrind --leak-check=full ./diskusage
 
 **Permission Denied Errors:**
 
-**Note**: Read the source code before running as root.
+**Note**: Always read the source code before running as superuser/root. Your system is your responsibility.
 
 ```bash
 # Run with appropriate permissions
@@ -160,10 +160,6 @@ sudo ./diskusage /root
 
 - If analyzing directories with millions of entries, the tool may consume significant memory
 - Use the `-n` option to limit results
-
-## License
-
-This project is licensed under the GNU General Public License 3.0 - see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for details.
 
 ## Author
 
